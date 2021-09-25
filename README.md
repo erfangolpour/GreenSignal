@@ -2,7 +2,7 @@
 ## An encrypted secure chat server written in Python
 
 ## About
-GreenSignal is a secure chat server which uses AES and RSA as it's main encryption protocols. You'll need Python3 and a few third-party libraries to run the program, but encryption protocols are prebuilt and implemented. Some options, such as server's ip and port, user limit and server's "Secret Key" are hard-coded into the program and need to be changed manually inside the code, you will easily find them on near the top of the program. Enjoy!
+GreenSignal is a secure chat server which uses AES and RSA as it's main encryption protocols. You'll need Python3 and a few third-party libraries to run the program, but encryption protocols are prebuilt and implemented. Some options, such as server's ip and port, user limit and server's "Secret Key" are hard-coded into the program and need to be changed manually inside the code, you will easily find them near the top of the program. Enjoy!
 
 ## Getting Started
 ### Run the server:
